@@ -1,6 +1,4 @@
 # The Temperature Recording System
 ## Overview
 
-
-
-############################**COMING SOON**#####################################
+Documentation is coming soon...
