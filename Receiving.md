@@ -2,6 +2,8 @@
 ## Receiving
 ### The BBC Micro:bit
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 When the BBC Microbit without the sensor recevies the data, it then processes it onto Scratch. But first, it needs to be transferred back into an integer.
 
 ```Python
@@ -26,6 +28,12 @@ while True:
   
 ```
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Scratch
 
-This data is then passed into this program aka intepreter to then be processed onto Scratch.
+----------------------------------------------------------------------------------------------------------------------------------------
+
+This data is then passed into this program aka intepreter to then be processed onto Scratch. It goes through a program which puts this data in several variables to then be passed onto Scratch
+
+----------------------------------------------------------------------------------------------------------------------------------------
