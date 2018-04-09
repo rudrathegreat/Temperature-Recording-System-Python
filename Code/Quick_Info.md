@@ -1,5 +1,5 @@
 # The Temperature Recording System
-## Quick Imfo
+## Quick Info
 
 ### Temperature_Receving.py - Overview
 
